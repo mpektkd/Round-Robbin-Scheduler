@@ -1,4 +1,4 @@
-# Round-Robbin-Scheduler
+# Round Robbin Scheduler
 
 We have to make a scheduler Round Robbin with lists of high and low priorities. Simultaneously, we are going to schedule the shell(is given some code that simulate the shell that there is in that repository). Also we can give dynamically instructions to the shell that communicates with scheduler for executing them.Instructions:
 "e <program>":insert a proccess
